@@ -1,0 +1,30 @@
+{
+  "name": "dittoserver",
+  "version": "1.0.0",
+  "description": "run server with double-click!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditt0132/dittoserver.git"
+  },
+  "keywords": [
+    "server",
+    "minecraft",
+    "minecraft-server"
+  ],
+  "author": "DittoNut",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ditt0132/dittoserver/issues"
+  },
+  "homepage": "https://github.com/ditt0132/dittoserver#readme",
+  "devDependencies": {
+    "@angablue/exe": "^2.0.2"
+  },
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
